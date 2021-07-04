@@ -38,32 +38,10 @@
 
 **Once you have gone through the process of installing the code you now run this command `npm run start` this will start the app and a new window will open in your browser with the app ready to be use**
 
-## Authors
-
-👤 **Kevin Cotrina**
-
-- Github: [@kcotrinam](https://github.com/kcotrinam)
-- Twitter: [@KevinCot12](https://twitter.com/KevinCot12)
-- LinkedIn: [Kevin Kotrinam](https://www.linkedin.com/in/kevin-cotrina-6208b7149/)
-
-## Authors
-
-👤 **Cosmel Villalobos**
-
-- Github: [@cvilla714](https://github.com/cvilla714)
-- Twitter: [@kckeyti](https://twitter.com/kckeyti)
-- LinkedIn: [Cosmel Villalobos](https://www.linkedin.com/in/cosvilla/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cvilla714/bookstore-react-redux/issues).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](https://github.com/cvilla714/bookstore-react-redux/blob/first-milestone/LICENSE) licensed.
